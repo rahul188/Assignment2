@@ -3,7 +3,7 @@
 Functionality :
 Simple Python Script to Convert MySQL Table to CSV File.
 
-For Running this Script you just need to install 1 package using : 
+For Running this Script you just need to install 1 package using 
 pip install mysql.connector
 
 Example : - 
